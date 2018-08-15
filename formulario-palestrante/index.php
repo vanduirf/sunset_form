@@ -4,7 +4,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 </head>
-	<body>
+	<body style="background-image: url(../images/form_background.jpg);">
 		<nav class="navbar navbar-light" style="background: linear-gradient(to right, #ffcc00 ,white);">
 			<a href="index.php" class="navbar-brand">
 				<img src="/images/Logo_Intranet.png" alt="Logo Intranet" class="d-inline-block align-top">
