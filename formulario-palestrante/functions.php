@@ -26,30 +26,36 @@ function validaCPF($cpf)
         return true;
     }
 
-// function enviaEmail($nome, $email, $tema)
-//     {
-//         //Destinatário - inscrito
-//         $to = $email;
+ // function enviaEmail($nome, $email, $tema)
+ //     {
+ //         //Destinatário - inscrito
+ //         $to = $email;
+
+ //         //Assunto
+ //         $subject = "Inscrição para a Semana do Conhecimento Sunset 2018";
+
+ //         //Mensagem
+ //         $message = "O email foi enviado.";
+
+         
 
 
-//         //Assunto
-//         $subject = "Inscrição para a Semana do Conhecimento Sunset 2018";
 
-//         //Mensagem
-//         $message = "
-//         <html>
-//         <head>
-//             <title>Inscrição para a Semana do Conhecimento Sunset 2018</title>
-//         </head>
-//         <body>
-//             <p><strong>Obrigado ".$nome."por se inscrever para a Semana do Conhecimento da Sunset.</strong></p><br>
-//             <p>Agradecemos pelo seu interesse em compartilhar o conhecimento. Sua inscrição será avaliada dentre outros inscritos e assim que aprovada, entraremos em contato.</p><br><br>
-//             <p>Atenciosamente</p><br>
-//             <p>Gente & Gestão Sunset Shoes</p>
-//             <img src='\images\Sistema_Sunset.png' alt='Logo Sunset'/>            
-//         </body>
-//         </html>"
-//     }
+
+
+         // <html>
+         // <head>
+         //     <title>Inscrição para a Semana do Conhecimento Sunset 2018</title>
+         // </head>
+         // <body>
+         //     <p><strong>Obrigado ".$nome."por se inscrever para a Semana do Conhecimento da Sunset.</strong></p><br>
+         //     <p>Agradecemos pelo seu interesse em compartilhar o conhecimento. Sua inscrição será avaliada dentre outros inscritos e assim que aprovada, entraremos em contato.</p><br><br>
+         //     <p>Atenciosamente</p><br>
+         //     <p>Gente & Gestão Sunset Shoes</p>
+         //     <img src='\images\Sistema_Sunset.png' alt='Logo Sunset'/>            
+         // </body>
+         // </html>
+        }
 ?>
 
 

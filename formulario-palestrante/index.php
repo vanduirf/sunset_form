@@ -11,7 +11,12 @@
 			</a>
 			<h1 class="text-center">FORMULÁRIOS SUNSET</h1>
 		</nav>
-		<h4 class="text-center" style="margin-top:50px;">Venha semear conhecimento, inscreva-se abaixo para ser um palestrante!</h2>
+		<h4 class="text-center" style="margin-top:50px;">Venha semear conhecimento, inscreva-se abaixo para ser um palestrante!</h4>
+		<div class="container">			
+			<div class="row">
+				<h6 class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos labore, porro nihil. Mollitia odit consequatur at nihil esse modi culpa! Ullam, obcaecati, debitis. Quidem debitis tempore nisi tenetur animi quisquam.</h6>
+			</div>
+		</div>
 		<div class="container" style="margin-top:50px;">			
 			<div class="row justify-content-center"><br>
 				<div class="col-12 col-md-8 col-lg-6 pb-5">

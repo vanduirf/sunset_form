@@ -4,7 +4,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 </head>
-	<body>
+	<body style="background-image: url(../images/form_background.jpg);">
 		<nav class="navbar navbar-light" style="background: linear-gradient(to right, #ffcc00 ,white);">
 			<a href="index.php" class="navbar-brand">
 				<img src="/images/Logo_Intranet.png" alt="Logo Intranet" class="d-inline-block align-top">
@@ -12,10 +12,15 @@
 			<h1 class="text-center">FORMULÁRIOS SUNSET</h1>
 		</nav>
 		<h4 class="text-center" style="margin-top:50px;">Venha participar da nossa Semana do Conhecimento 2018!</h2>
+		<div class="container">			
+			<div class="row">
+				<h6 class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos labore, porro nihil. Mollitia odit consequatur at nihil esse modi culpa! Ullam, obcaecati, debitis. Quidem debitis tempore nisi tenetur animi quisquam.</h6>
+			</div>
+		</div>
 		<div class="container" style="margin-top:50px;">			
 			<div class="row justify-content-center"><br>
 				<div class="col-12 col-md-8 col-lg-6 pb-5">
-	<!------------------------------Formulário e cabeçalho---------------------------->
+<!----------------------------------Formulário e cabeçalho---------------------------->
 					<form action="conexao.php" method="post">
 						<div class="card rounded-0">
 							<div class="card-header p-0">
@@ -33,22 +38,21 @@
 										</div>
 										<select class="form-control" name="tema" id="idtema">
 											<option value=null>Escolha um curso</option>
-											<option value="curso_a">Curso A - Semana do Conhecimento</option>
-											<option value="curso_b">Curso B - Semana do Conhecimento</option>
-											<option value="curso_c">Curso C - Semana do Conhecimento</option>
-											<option value="curso_d">Curso D - Semana do Conhecimento</option>
-											<option value="curso_e">Curso E - Semana do Conhecimento</option>
-											<option value="curso_f">Curso F - Semana do Conhecimento</option>
-											<option value="curso_g">Curso G - Semana do Conhecimento</option>
-											<option value="curso_h">Curso H - Semana do Conhecimento</option>
-											<option value="curso_i">Curso I - Semana do Conhecimento</option>
-											<option value="curso_j">Curso J - Semana do Conhecimento</option>
-											<option value="curso_k">Curso J - Semana do Conhecimento</option>
+											<option value="curso_a">Palestra A - Semana do Conhecimento</option>
+											<option value="curso_b">Palestra B - Semana do Conhecimento</option>
+											<option value="curso_c">Palestra C - Semana do Conhecimento</option>
+											<option value="curso_d">Palestra D - Semana do Conhecimento</option>
+											<option value="curso_e">Palestra E - Semana do Conhecimento</option>
+											<option value="curso_f">Palestra F - Semana do Conhecimento</option>
+											<option value="curso_g">Palestra G - Semana do Conhecimento</option>
+											<option value="curso_h">Palestra H - Semana do Conhecimento</option>
+											<option value="curso_i">Palestra I - Semana do Conhecimento</option>
+											<option value="curso_j">Palestra J - Semana do Conhecimento</option>
+											<option value="curso_k">Palestra J - Semana do Conhecimento</option>
 										</select>									
 									</div>
 								</div>
-	<!--------------------------------Nome ---------------------------------------->
-							
+	<!--------------------------------Nome ---------------------------------------->							
 								<div class="form-group">
 									<div class="input-group mb-2">
 										<div class="input-group-prepend" style="width: 900px;">
